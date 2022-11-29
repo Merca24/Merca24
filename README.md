@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Lua and Java**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 I’m currently learning **Linux**
 
 
 <div align="left">
