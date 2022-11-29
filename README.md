@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/nEsdZ0qa6QcAAAAM/dog.gif" />
     <h1 align="center">Hi 👋, I'm Merca</h1>
-    <h3 align="center">A passionate web fullstack developer from Argentina.<h3/>
+    <h3 align="center">A passionate  fullstack developer from Argentina.<h3/>
 </div>
 
 
