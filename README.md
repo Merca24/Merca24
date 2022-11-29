@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/nEsdZ0qa6QcAAAAM/dog.gif" />
     <h1 align="center">Hi 👋, I'm Merca</h1>
-    <h3 align="center">A passionate web fullstack developer from Argentina.
+    <h3 align="center">A passionate web fullstack developer from Argentina.<h3/>
 </div>
 
 
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **Lua and Java**
 
 - 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
